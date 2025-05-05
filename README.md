@@ -25,8 +25,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-[Click here to watch the walkthrough video](https://drive.google.com/file/d/13hGB9nhUtHoxe1RMxSjaiJ9lXXe_Nofe/view?usp=sharing)
+https://imgur.com/a/zpUf7pb
+[Click here to watch the walkthrough video]( )
 
 
 <!-- Replace this with whatever GIF tool you used! -->
